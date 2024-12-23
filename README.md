@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Exploring new things
 - 🌱 I’m currently learning   Python Data Visualization library
 - 💞️ I’m looking to collaborate on End to End Data Analysis Project
-- 💬 Ask me about Excel, SQL, Power bi , Python
+- 💬 Ask me about Excel, SQL, Power bi , Python,Tableau
 - 📫 How to reach me nikkikush0904@gmail.com ,www.linkedin.com/in/nikita-k-351691233
 
 <!---
